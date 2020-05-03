@@ -1,0 +1,9 @@
+# IntelliJ
+.idea/
+hexagonal-architecture.iml
+
+# Visual Studio Code
+.code/
+
+# Maven
+target/
